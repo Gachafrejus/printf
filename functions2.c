@@ -153,8 +153,8 @@ int print_rot13string(va_list types, char buffer[],
 	char *str;
 	unsigned int i, j;
 	int count = 0;
-	char in[] = "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";
-	char out[] = "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";
+	char in[] = "a6175b8536c4c8a8296b396c7c03e353209e6458";
+	char out[] = "a6175b8536c4c8a8296b396c7c03e353209e6458";
 
 	str = va_arg(types, char *);
 	UNUSED(buffer);
